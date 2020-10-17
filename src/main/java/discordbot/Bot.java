@@ -3,7 +3,7 @@ package discordbot;
 
 import javax.security.auth.login.LoginException;
 
-import discordbot.commands.Commands;
+import discordbot.commands.Command;
 import discordbot.events.GuildMemberJoin;
 import discordbot.events.GuildMemberRemove;
 import discordbot.events.GuildMessageReactionAdd;
@@ -21,7 +21,7 @@ public class Bot {
 	 * To put simply, we can say that jda represents our bot.
 	 */
 	public static JDA jda;  
-	public static String prefix = ".";
+	public final static String prefix = ".";
 	 
 	public static void main(String[] args) throws LoginException {
 		/**
@@ -34,7 +34,6 @@ public class Bot {
 		 * gateway intents, don't forget to add it.
 		 */
 		jda = JDABuilder.createDefault(args[0]).enableIntents(GatewayIntent.GUILD_MEMBERS).build();  // default gateway intents + guild member track
-		
 		/**
 		 * Presence means discord status. .setStatus() helps you to set bot's status (obviously).
 		 * setActivity() takes an activity instance. Activity.playing() is a static method, we don't need
@@ -47,7 +46,7 @@ public class Bot {
 				+ "The Return of the Apocalypse in the Dawn of Dark Shadows"));
 		
 		
-		jda.addEventListener(new Commands());
+		jda.addEventListener(new Command());
 		jda.addEventListener(new GuildMemberJoin());
 		jda.addEventListener(new GuildMemberRemove());  // Currently, it doesn't work. Under maintenance.
 		jda.addEventListener(new GuildMessageReactionAdd());
