@@ -6,7 +6,7 @@ import net.dv8tion.jda.api.entities.ChannelType;
 import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
-public class Play  extends ListenerAdapter{
+public class Play  extends ListenerAdapter{ 
 	public static void Execute(String[] arguments, GuildMessageReceivedEvent event) {
 		if(!event.getMessage().getChannelType().equals(ChannelType.VOICE)) {
 			EmbedBuilder error = new EmbedBuilder();

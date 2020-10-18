@@ -5,7 +5,7 @@ import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
-public class Calculate extends ListenerAdapter {
+public class Calculate extends ListenerAdapter  {
 	public static void Execute(String[] arguments, GuildMessageReceivedEvent event) {
 		if (arguments.length == 1) {
 			EmbedBuilder instruction = new EmbedBuilder();

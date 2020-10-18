@@ -1,0 +1,53 @@
+1406 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+1910 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+2319 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+20119 [JDA RateLimit-Worker 1] WARN  n.d.j.internal.requests.RateLimiter - Encountered 429 on route PUT/channels/{channel_id}/messages/{message_id}/reactions/{reaction_code}/{user_id} with bucket d6b7697c78814ecd72bb20df05517c78:guild_id:763709333983854605:webhook_id Retry-After: 232 ms
+20576 [JDA RateLimit-Worker 1] WARN  n.d.j.internal.requests.RateLimiter - Encountered 429 on route PUT/channels/{channel_id}/messages/{message_id}/reactions/{reaction_code}/{user_id} with bucket d6b7697c78814ecd72bb20df05517c78:guild_id:763709333983854605:webhook_id Retry-After: 230 ms
+3919 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4892 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+5497 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3056 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4000 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+4742 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3831 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+5007 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+5597 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3320 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4179 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+4922 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3405 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4459 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+5059 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+4877 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+5659 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+6189 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3207 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4236 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+4854 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3417 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4349 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+4920 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+5301 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+6504 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+7094 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3108 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4631 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+5475 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3548 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4287 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+4791 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3736 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4698 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+5302 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+4772 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+6800 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+7682 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+3548 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+4613 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+5231 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+4843 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+6129 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+6830 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+4202 [main] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+5263 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+5934 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!

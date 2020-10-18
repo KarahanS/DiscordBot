@@ -39,6 +39,8 @@ public class Command extends ListenerAdapter {
 		break;
 		case (Bot.prefix + "calculate"): Calculate.Execute(arguments, event);
 		break;
+		case (Bot.prefix + "invite"): Invite.Execute(arguments, event);
+		break;
 		}
 						
 									
